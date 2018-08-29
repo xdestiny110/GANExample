@@ -1,6 +1,6 @@
 # 一个简单的GAN示例
 
-*by Xdestiny. 8/29/2018
+by Xdestiny. 8/29/2018
 
 ## 简介
 
@@ -8,11 +8,11 @@
 
 ## 运行环境
 
-以下为本人使用的环境，其他环境未做实验
-python 3.6.4
-numpy 1.13.3
-tensorflow 1.6.0
-tensorlayer 1.8.5
+以下为本人使用的环境，其他环境未做实验  
+python 3.6.4  
+numpy 1.13.3  
+tensorflow 1.6.0  
+tensorlayer 1.8.5  
 
 ## 运行结果
 
